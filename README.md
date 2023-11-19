@@ -50,6 +50,8 @@
 | Sein               | Client            | danielcristh0/debian-buster:1.1     | Dynamic         | 
 | Stark              | Client            | danielcristh0/debian-buster:1.1     | Dynamic         |
 
+#### Link GNS: https://drive.google.com/file/d/1bWBWaEl5MKJqcg_dxTJgQ0G1PVjeJcYh/view?usp=sharing
+
 ### Konfigurasi Node
 - Aura (Router / DHCP Relay)
 
